@@ -1,5 +1,3 @@
-import com.hackerrank.algorithm.MiniMaxSum;
-
 public class Main {
 
     public static void main(String[] args) {

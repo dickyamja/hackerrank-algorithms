@@ -1,4 +1,4 @@
-package com.hackerrank.algorithm;
+package com.hackerrank.algorithm.easy;
 
 public class StairCase {
   public static void staircase(int n) {

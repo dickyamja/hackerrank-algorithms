@@ -1,4 +1,4 @@
-package com.hackerrank.algorithm;
+package com.hackerrank.algorithm.easy;
 
 public class CountingValleys {
   // Complete the countingValleys function below.

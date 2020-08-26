@@ -1,4 +1,4 @@
-package com.hackerrank.algorithm;
+package com.hackerrank.algorithm.easy;
 
 import java.util.List;
 

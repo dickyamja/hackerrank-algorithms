@@ -1,4 +1,4 @@
-package com.hackerrank.algorithm;
+package com.hackerrank.algorithm.easy;
 
 public class PlusMinus {
   public static void plusMinus(int[] arr) {
